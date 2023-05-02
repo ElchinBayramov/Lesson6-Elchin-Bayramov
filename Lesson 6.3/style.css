@@ -1,0 +1,21 @@
+.container{
+    text-align:left;
+    border: 2px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 4px;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+.target{
+    width: 80px;
+    height: 80px;
+    color: white;
+    background-color: blueviolet;
+    position: absolute;
+    border-radius: 3px;
+    top: 0px;
+    left: 310px;
+    padding-left: 10px;
+}

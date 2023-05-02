@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.resolute{
+  width: 80px;
+  height: 80px;
+  background-color: lightsteelblue;
+ position: static;
+ display: inline-block;
+ margin: 3px;
+ text-align: center;
+ padding-top: 30px;
+}
+.container{
+    width: 300px;
+    height: 80px;
+    background-color: lightblue;
+    display: inline-block;
+    position:absolute;
+    top: 20px;
+    left: 90px;
+   
+}
+.Static{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    left: 10px;
+    position: absolute;
+    text-align: center;
+    padding-top: 30px;
+}
+.Static2{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 210px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.Relative{
+    border: 2px;
+    border-style: dashed;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    left: 110px;
+    border-color: lightseagreen;
+   
+   
+  
+
+}
+.relativebox{
+    width: 80px;
+    height: 80px;
+    background-color:lightseagreen;
+    display: inline-block;
+    position: absolute;
+    top:-10px;
+    left: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+.container2{
+    width: 300px;
+    height: 80px;
+    background-color:lightblue;
+    display: inline-block;
+    position: absolute;
+    top: 160px;
+    left: 90px;
+   
+}
+.Static3{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    position: absolute;
+    left: 35px;
+    text-align: center;
+    padding-top: 30px;
+}
+.Static4{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    left: 180px;
+    position: absolute;
+    text-align: center;
+    padding-top: 30px;
+}
+.container3{
+    width: 300px;
+    height: 80px;
+    background-color:lightblue;
+    display: inline-block;
+   position: absolute;
+    top: 320px;
+    left: 90px;
+   
+}
+.Static5{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    left: 210px;
+    position: absolute;
+    text-align: center;
+    padding-top: 30px;
+}
+.Static6{
+    width: 80px;
+    height: 80px;
+    background-color: chocolate;
+    display: inline-block;
+    left: 10px;
+    position: absolute;
+    text-align: center;
+    padding-top: 30px;
+
+}
+ .Fixed{
+    position: fixed;
+    left: 200px;
+    width: 80px;
+    height: 80px;
+    background-color:red;
+    text-align: center;
+    padding-top: 30px;
+ 
+ }
+
+
